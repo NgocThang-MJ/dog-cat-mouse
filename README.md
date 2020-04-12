@@ -10,3 +10,6 @@ diff
 working directory
 staging area
 git repository
+
+git checkout
+git reset
