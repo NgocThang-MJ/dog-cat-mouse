@@ -6,3 +6,7 @@ commit
 log
 show
 diff
+
+working directory
+staging area
+git repository
