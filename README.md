@@ -11,5 +11,9 @@ working directory
 staging area
 git repository
 
-git checkout
+git checkout -- <file>
 git reset
+
+git checkout -b <branch> (branching)
+git checkout <branch>
+git merge
