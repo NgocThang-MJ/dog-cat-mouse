@@ -3,3 +3,6 @@ init
 status
 add
 commit
+log
+show
+diff
