@@ -17,3 +17,13 @@ git reset
 git checkout -b <branch> (branching)
 git checkout <branch>
 git merge
+
+git revert <commit>
+
+.gitignore
+
+git config --global credential.helper "cache --timeout=18000"
+google "gnome-keyring" "git ssh"
+
+git clone
+git pull
